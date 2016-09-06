@@ -15,8 +15,10 @@ nav a {
   font-weight: bold;
 }
 section {
-  border: 1px solid #000;
+  /*border: 1px solid #000;*/
   margin-left: 225px;
-  background-color: #eee;
   width: 900px;
+}
+footer {
+  text-align: center;
 }
